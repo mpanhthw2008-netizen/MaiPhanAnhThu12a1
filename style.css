@@ -4,4 +4,11 @@ h1 {
 .tuade {
   color:darkblue;
   font-family:"Times New Roman";
+  font-size: 20pt;
+  font-weight: bold;
+}
+.noidung {
+  color:black;
+  font-family:"Times New Roman";
+  font-size: 15pt;
 }
