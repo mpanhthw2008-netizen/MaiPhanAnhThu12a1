@@ -2,15 +2,15 @@ h1 {
   color:red;
 }
 .tuade {
-  color:darkblue;
+  color: blue;
   font-family:"Times New Roman";
   font-size: 20pt;
   font-weight: bold;
 }
 .noidung {
-  color:black;
-  font-family:"Times New Roman";
+  color: black;
+  font-family: "Times New Roman";
   font-size: 10pt;
-  font-style:normal;
+  font-style: normal;
   margin: 10px 20px;
 }
