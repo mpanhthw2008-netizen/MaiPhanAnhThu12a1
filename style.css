@@ -5,7 +5,7 @@
 }
 .header{
   flex: 15%;
-  background-color: olivedrab;
+  background-color: royalblue;
   background: url("images/banner.jpg") center / 100%;
   aspect-ratio: 6 / 1
 }
@@ -35,7 +35,7 @@
 }
 .footer{
   flex: 10%;
-  background-color: olivedrab;
+  background-color: royalblue;
 }
 h1 {
   color:red;
