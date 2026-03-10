@@ -6,8 +6,7 @@
 .header{
   flex: 15%;
   background-color: seagreen;
-  background: url("images/banner.jpg");
-  aspect-ratio: 6 / 1
+  background: url("images/banner.jpg") center / 100%;
 }
 .menu{
   flex: 5%;
