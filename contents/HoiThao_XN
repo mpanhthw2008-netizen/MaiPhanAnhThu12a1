@@ -1,0 +1,14 @@
+<head>
+  <meta charset="UTF-8">
+</head>
+<body>
+  <p id="ht"> </p>
+  <script>
+    let params = new URLSearchParams(window.location.search);
+    let name = params.get("txtTen");
+    document.getElementById("ht").innerHTML = "Cảm ơn bạn " + name + " đã đăng kí.";
+  </script>
+  <form action="HoiThao.html">
+   <input type= "submit" name= "cmd" value="Quay lại">
+  </form>
+</body>
